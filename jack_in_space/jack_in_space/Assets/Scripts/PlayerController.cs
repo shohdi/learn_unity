@@ -37,18 +37,24 @@ public class PlayerController : MonoBehaviour
             jump();
 
         }
-        this.myAnimator.SetBool("isGrounded", this.isGrounded());
+
 
 
     }
 
-   
+
+    void FixedUpdate()
+    {
+        this.myAnimator.SetBool("isGrounded", this.isGrounded());
+    }
+
+
 
     private void jump()
     {
         if (this.isGrounded())
         {
-            this.myAnimator.SetBool("isGrounded", false);
+
             this.rigidBody.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
         }
     }
