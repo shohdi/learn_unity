@@ -1,5 +1,3 @@
-/home/shohdi/projects/learning/learn_unity/jack_in_space/jack_in_space/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
-/home/shohdi/projects/learning/learn_unity/jack_in_space/jack_in_space/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
 /home/shohdi/projects/learning/learn_unity/jack_in_space/jack_in_space/Temp/bin/Debug/Assembly-CSharp.dll
 /home/shohdi/projects/learning/learn_unity/jack_in_space/jack_in_space/Temp/bin/Debug/Assembly-CSharp.pdb
 /home/shohdi/projects/learning/learn_unity/jack_in_space/jack_in_space/Temp/bin/Debug/Microsoft.Win32.Primitives.dll
@@ -364,6 +362,7 @@
 /home/shohdi/projects/learning/learn_unity/jack_in_space/jack_in_space/Temp/bin/Debug/UnityEngine.ARModule.xml
 /home/shohdi/projects/learning/learn_unity/jack_in_space/jack_in_space/Temp/bin/Debug/UnityEditor.TestRunner.pdb
 /home/shohdi/projects/learning/learn_unity/jack_in_space/jack_in_space/Temp/bin/Debug/UnityEngine.TestRunner.pdb
+/home/shohdi/projects/learning/learn_unity/jack_in_space/jack_in_space/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
 /home/shohdi/projects/learning/learn_unity/jack_in_space/jack_in_space/obj/Debug/Assembly-CSharp.csproj.CopyComplete
 /home/shohdi/projects/learning/learn_unity/jack_in_space/jack_in_space/obj/Debug/Assembly-CSharp.dll
 /home/shohdi/projects/learning/learn_unity/jack_in_space/jack_in_space/obj/Debug/Assembly-CSharp.pdb
